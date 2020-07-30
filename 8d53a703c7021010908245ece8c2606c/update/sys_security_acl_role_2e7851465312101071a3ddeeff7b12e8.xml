@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-30 15:05:18</sys_created_on>
+        <sys_id>2e7851465312101071a3ddeeff7b12e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_acer_cot_modpack7.x_acer_cot.modpack7_user</sys_name>
+        <sys_package display_value="COT" source="x_acer_cot">8d53a703c7021010908245ece8c2606c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="COT">8d53a703c7021010908245ece8c2606c</sys_scope>
+        <sys_security_acl display_value="x_acer_cot_modpack7">ea7851465312101071a3ddeeff7b12e5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2e7851465312101071a3ddeeff7b12e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-30 15:05:18</sys_updated_on>
+        <sys_user_role display_value="x_acer_cot.modpack7_user" name="x_acer_cot.modpack7_user">62785d065312101071a3ddeeff7b1264</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="COT">8d53a703c7021010908245ece8c2606c</claim_owner_scope>
+        <claim_timestamp>173a0a691b30000001</claim_timestamp>
+        <metadata_update_name>sys_security_acl_role_2e7851465312101071a3ddeeff7b12e8</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>COT</previous_claim_name>
+        <previous_claim_scope>8d53a703c7021010908245ece8c2606c</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-30 16:55:37</sys_created_on>
+        <sys_id>3eb1fd425312101071a3ddeeff7b1275</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-30 16:55:37</sys_updated_on>
+    </sys_claim>
+</record_update>
